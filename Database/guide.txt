@@ -1,0 +1,20 @@
+MySQL workbench.
+1->> server
+2->> data import
+3->> self-contained file
+4->> locate the portal schema file
+5->> let the selection be - dump structure and schema
+6->> start import
+7->> verify
+
+8->> DB - > demoproject
+
+info - > each new student added prn is password.
+Passwords is encrypted using bycrypt module.
+
+-> One Student can be allocated project only once for each semester.
+
+
+
+Project is in 2 parts, this is just the first part.
+Students cannot be added directly by importing some sort of a file. - future implementation.
