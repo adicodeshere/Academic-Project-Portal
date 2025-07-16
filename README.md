@@ -103,7 +103,7 @@ The system uses MySQL with the following key tables:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Academic\ Submission\ Portal\ Project
+  
    ```
 
 2. **Set up the database**
